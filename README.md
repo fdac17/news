@@ -201,16 +201,26 @@ This class assumes you are confident with this material, but in case you need a 
 * [python-data-cleaning](http://nbviewer.ipython.org/github/ResearchComputing/Meetup-Fall-2013/blob/master/python/lecture_21_pandas_processing.ipynb)
 * [python tutorial for engineers](http://nbviewer.ipython.org/gist/rpmuller/5920182)
 
+#### GitHub
 
-#### Similar for GitHub
+* Git and GitHub
+    * [Official GitHub Help](https://help.github.com/)
+	* [GitHub Issues](https://guides.github.com/features/issues/)
+    * [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
+* GitHub Pages
+    * [Official site](http://pages.github.com/)
+    * [Thinkful guide](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 
-* [Official GitHub Help](https://help.github.com/)
-* [pull-request](https://help.github.com/articles/creating-a-pull-request)
-* [GitHub Issues](https://guides.github.com/features/issues/)
-* [Recommended resources](https://help.github.com/articles/what-are-other-good-resources-for-learning-git-and-github)
-* [create-repo](https://help.github.com/articles/create-a-repo)
-* [forking](https://guides.github.com/activities/forking/)
 
-
-#### Other links
-* [deliberate-practice](http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html)
+<!-- Links -->
+[docker]:http://www.eecs.utk.edu/resources/it/kb/docker
+[class-site]:http://web.eecs.utk.edu/~audris/fdac
+[deliberate-practice]:http://www.psy.fsu.edu/faculty/ericsson/ericsson.exp.perf.html
+[pull-request]:https://help.github.com/articles/creating-a-pull-request
+[create-repo]: https://help.github.com/articles/create-a-repo
+[forking]: https://guides.github.com/activities/forking/
+[ref-clone]: http://gitref.org/creating/#clone
+[ref-commit]: http://gitref.org/basic/#commit
+[ref-push]: http://gitref.org/remotes/#push
+[pull-request]: https://help.github.com/articles/creating-a-pull-request
+[raw]: https://raw.githubusercontent.com/education/guide/master/docs/forks.md
