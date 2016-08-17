@@ -10,7 +10,7 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://gitgub.com/snippets/fdac16/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac16/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
 1. Look through [issues](https://github.com/fdac16/news/issues)
 1. Post the question as an issue.
