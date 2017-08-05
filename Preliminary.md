@@ -4,21 +4,20 @@
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
    * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
-      - Do steps 1, 2, 4, and 5
-      - Do Not Share Your Private Key in id_rsa
-   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on
-      [students repository](https://github.com/fdac17/students) so I
+            - Do steps 1, 2, 4, and 5
+            - Do Not Share Your Private Key in id_rsa
+   * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac17/students) so I
       can add you to the to the GitHub group for the course.
-          1. Start by [**forking** the students repository](https://github.com/fdac17/students)
-          1. Add your utk username as USERNAME.md (click on '+' - add 
-             new file next to the https//<span></span><span></span>github.com/fdac17/students/+ link)
-          1. Add your UTK netid and publickey key (in id_rsa.pub) to
-             USERNAME.key
-          1. Click on Create Pull Request
+            1. Start by [**forking** the students repository](https://github.com/fdac17/students)
+            1. Add your utk net id as NETID.md (click on '+' - add 
+               new file next to the https//<span></span><span></span>github.com/fdac17/students/+ link)
+            1. Add your UTK netid and publickey key (in id_rsa.pub) to
+               NETID.key
+            1. Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid)
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
     
-## Workflow
+## Typical workflow
 1. To start, [**fork** the repository][forking] for the test project (found under [github.com/fdac17](https://github.com/fdac17))
 1. [**Clone**][ref-clone] the repository to your computer.
 1. View, create, and edit your files
@@ -58,17 +57,17 @@ sure I know to look at it sooner.
 
   * Putty is a common ssh client for windows
   * [Instructions on how to generate ssh key running windows](https://docs.joyent.com/public-cloud/getting-started/ssh-keys/generating-an-ssh-key-manually/manually-generating-your-ssh-key-in-windows)
-    1. ![public ssh key from puttygen](https://github.com/fdac17/news/blob/master/puttykey.png "public ssh key from puttygen")
-    1. Save the private key and use it in your putty ssh session
-    1. Copy the public key (highlited in the image) to add to the list.txt 
-    1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
-    1. ![port forwarding](https://github.com/fdac17/news/blob/master/puttyport.png "select port forwarding")
+       1. ![public ssh key from puttygen](https://github.com/fdac17/news/blob/master/puttykey.png "public ssh key from puttygen")
+       1. Save the private key and use it in your putty ssh session
+       1. Copy the public key (highlited in the image) to add to the list.txt 
+       1. Now work on creating and saving session: start putty and go to connection/ssh/tunnels, enter source and destination and click *add*
+       1. ![port forwarding](https://github.com/fdac17/news/blob/master/puttyport.png "select port forwarding")
 
-    1. Go to  go to connection/ssh/Auth and browse for your private key
-    1. ![authentication](https://github.com/fdac17/news/blob/master/puttyauth.png "select secret key that was saved above")
-    1. Go to  go to session enter hostname and *YOUR PORT* from ports.md in fdac/students
-    1. ![session](https://github.com/fdac17/news/blob/master/puttysession.png "start putty session")
-    1. Don't forget to _save_ the session before clicking open  
+       1. Go to  go to connection/ssh/Auth and browse for your private key
+       1. ![authentication](https://github.com/fdac17/news/blob/master/puttyauth.png "select secret key that was saved above")
+       1. Go to  go to session enter hostname and *YOUR PORT* from ports.md in fdac/students
+       1. ![session](https://github.com/fdac17/news/blob/master/puttysession.png "start putty session")
+       1. Don't forget to _save_ the session before clicking open  
 
 
 <!-- Links -->
