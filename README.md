@@ -1,8 +1,21 @@
+# Class on Aug 23
+
+- Will be led by the TA
+     - Make sure you accept your github invitations
+	 - Go through the fork students create your utid.md file
+	   providing your name and interests: see audris.md for
+	   inspiration, and also provide your  utid.key with your public
+	   ssh key.
+     - Follow through ssh/putty setup
+     - Make sure you do it during the class so we can start ready Aug
+       25
+	 - [Full details](https://github.com/fdac17/news/blob/master/Preliminary.md)
+	
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
-* ** MK405  2:30-3:20 MWF**
+* ** MK524  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
-* **TA:** Tapajit Dey, [tdey2@vols.utk.edu](mailto:tdey2@vols.utk.edu)
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu)
 * **Need help?**
 
 Simple rules: 
@@ -10,9 +23,9 @@ Simple rules:
 1. There are no stupid questions. However, it may be worth going over the following steps:
 1. Think of what the right answer may be.
 1. Search online: stack overflow, etc.
-     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac16/)
+     - code snippets: On GH [gist.github.com](https://gist.github.com/) or, if anyone contributes, [for this class](https://github.com/snippets/fdac17/)
      - answers to questions: [Stack Overflow](http://stackoverflow.com/)
-1. Look through [issues](https://github.com/fdac16/news/issues)
+1. Look through [issues](https://github.com/fdac17/news/issues)
 1. Post the question as an issue.
 1. Ask instructor: [email](mailto:audris@utk.edu) for 1-on-1 help, or
    to set up a time to meet 
