@@ -4,10 +4,12 @@
    * Sign up for [GitHub](https://github.com/) if not already signed
      up. Pick default (free plan).
    * [Create ssh key](https://help.github.com/articles/generating-ssh-keys/)
+   
             - Do steps 1, 2, 4, and 5
             - Do Not Share Your Private Key in id_rsa
    * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac17/students) so I
       can add you to the to the GitHub group for the course.
+      
             - Start by [**forking** the students repository](https://github.com/fdac17/students)
             - Add your utk net id as NETID.md (click on '+' - add 
                new file next to the https//<span></span><span></span>github.com/fdac17/students/+ link)
