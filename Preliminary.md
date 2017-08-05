@@ -8,12 +8,12 @@
             - Do Not Share Your Private Key in id_rsa
    * [Fork](https://help.github.com/articles/fork-a-repo/) and create a [pull request](https://help.github.com/articles/using-pull-requests/) on [students repository](https://github.com/fdac17/students) so I
       can add you to the to the GitHub group for the course.
-            1. Start by [**forking** the students repository](https://github.com/fdac17/students)
-            1. Add your utk net id as NETID.md (click on '+' - add 
+            - Start by [**forking** the students repository](https://github.com/fdac17/students)
+            - Add your utk net id as NETID.md (click on '+' - add 
                new file next to the https//<span></span><span></span>github.com/fdac17/students/+ link)
-            1. Add your UTK netid and publickey key (in id_rsa.pub) to
+            - Add your UTK netid and publickey key (in id_rsa.pub) to
                NETID.key
-            1. Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid)
+            - Click on Create Pull Request (do not create NETID.md, but replace NETID by your netid)
 1. Familiarize yourself with GitHub workflow
    * Walk through [workflow](#workflow) 
     
