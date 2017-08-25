@@ -1,3 +1,24 @@
+# Class on Aug 25
+
+- Will finalize the file submission
+  - please rename your .md and .pub file to your *utkid* in all
+  lowercase, some files use GitHub id.
+
+```  
+git mv YourGithubID.md yourutkid.md
+git mv YourGithubID.pub yourutkid.pub
+git commit -m 'renamed files'
+git push
+```
+   - Then create a new pull request.
+
+- If you have not accepted GitHub invitation, please do
+
+- I'll go over syllabus and provide some background information
+
+
+
+
 # Class on Aug 23
 
 - Will be led by the TA
