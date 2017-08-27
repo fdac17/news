@@ -1,3 +1,55 @@
+# Class on Sep 18
+
+- Selected presentations
+
+
+# Class on Sep 13
+
+- Assignment1 due, selected presentations
+
+# Class on Sep 11
+
+- Dedicated to pair discussions of the Mini-project 1
+
+- On organizing int final project teams
+
+# Class on Sep 8
+
+- Ideas for the final project (be ready to present your pitch if you want to do it.
+
+
+# Class on Sep 6
+
+- We will go over data discovery fdac17/lectures/dd.pdf 
+
+- [Mini-Project 1](https://github.com/fdac17/Mini-Project1) will be introduced
+       1. Q: Do I need to keep stuff in Answer1.ipynb? A: Absolutely not, you should create a new notebook YourUTID_MP1.ipnb
+       1. Q: How do I raise issue if my peer has not created a fork yet? A: The forks are due Sep 8: thats why we have multiple steps in this assignment. If the fork is not there yet: raise issue regarding absence of the fork on fdac17/news
+       1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
+
+# Class on Aug 30
+
+- We will go over why we use the tools fdac17/lectures/magic.pdf
+
+- Analysis of self-description in .md files: fork fdac17/students
+  then git clone (or pull) in your docker terminal and play with students/TeamingAnalysis.ipynb and students/DataStructures.ipynb. Available (Aug 28)
+
+
+# Class on Aug 28
+
+- Please make sure you can login via ssh/putty: your key has been
+  inserted in the authorized_keys, so you should not need to retype
+  your password
+
+- Common question: "when I try to ssh into my container saying that the host key may have been changed. By default it's using strict host key checking which I could turn off. What's the best action for this?" Answer: remove offending key from .ssh/known_hosts (or remove .ssh/known_hosts)
+ 
+- We will go over why we use the tools fdac17/lectures/tools.pdf
+
+- Feel free to add something about yourself to the .md file: many
+are quite bare and may not contain sufficient info for clustering.
+
+- Please do homework in fdac17/Practice0 (to familiarize with basic python tools) (Due Aug 30)
+
 # Class on Aug 25
 
 - Will finalize the file submission
@@ -15,7 +67,6 @@ git push
 - If you have not accepted GitHub invitation, please do
 
 - I'll go over syllabus and provide some background information
-
 
 
 
