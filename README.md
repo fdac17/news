@@ -29,11 +29,10 @@
 
 # Class on Aug 30
 
-- We will go over why we use the tools fdac17/lectures/magic.pdf
+- We will go over data discovery fdac17/lectures/dd.pdf 
 
 - Analysis of self-description in .md files: fork fdac17/students
   then git clone (or pull) in your docker terminal and play with students/TeamingAnalysis.ipynb and students/DataStructures.ipynb. Available (Aug 28)
-
 
 # Class on Aug 28
 
@@ -44,6 +43,8 @@
 - Common question: "when I try to ssh into my container saying that the host key may have been changed. By default it's using strict host key checking which I could turn off. What's the best action for this?" Answer: remove offending key from .ssh/known_hosts (or remove .ssh/known_hosts)
  
 - We will go over why we use the tools fdac17/lectures/tools.pdf
+
+- We will go over some magic behid these tools fdac17/lectures/magic.pdf
 
 - Also, please see https://github.com/fdac17/students/blob/master/FAQ.md
   Feel free to edit/submit a pull request.
