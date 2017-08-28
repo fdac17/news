@@ -22,9 +22,10 @@
 - We will go over data discovery fdac17/lectures/dd.pdf 
 
 - [Mini-Project 1](https://github.com/fdac17/Mini-Project1) will be introduced
-       1. Q: Do I need to keep stuff in Answer1.ipynb? A: Absolutely not, you should create a new notebook YourUTID_MP1.ipnb
-       1. Q: How do I raise issue if my peer has not created a fork yet? A: The forks are due Sep 8: thats why we have multiple steps in this assignment. If the fork is not there yet: raise issue regarding absence of the fork on fdac17/news
-       1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
+        
+   1. Q: Do I need to keep stuff in Answer1.ipynb? A: Absolutely not, you should create a new notebook YourUTID_MP1.ipnb       
+   1. Q: How do I raise issue if my peer has not created a fork yet? A: The forks are due Sep 8: thats why we have multiple steps in this assignment. If the fork is not there yet: raise issue regarding absence of the fork on fdac17/news
+   1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
 
 # Class on Aug 30
 
@@ -43,6 +44,9 @@
 - Common question: "when I try to ssh into my container saying that the host key may have been changed. By default it's using strict host key checking which I could turn off. What's the best action for this?" Answer: remove offending key from .ssh/known_hosts (or remove .ssh/known_hosts)
  
 - We will go over why we use the tools fdac17/lectures/tools.pdf
+
+- Also, please see https://github.com/fdac17/students/blob/master/FAQ.md
+  Feel free to edit/submit a pull request.
 
 - Feel free to add something about yourself to the .md file: many
 are quite bare and may not contain sufficient info for clustering.
