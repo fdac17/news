@@ -15,8 +15,7 @@
 
 # Class on Sep 8
 
-- Ideas for the final project (be ready to present your pitch if you want to do it.
-
+- Ideas for the final project (be ready to present your pitch if you want to do it)
 
 # Class on Sep 6
 
@@ -86,8 +85,8 @@ git push
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
 * ** MK524  2:30-3:20 MWF**
-* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu)
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu)
+* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) MK613
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours  Wed 11:30-1:20 
 * **Need help?**
 
 Simple rules: 
