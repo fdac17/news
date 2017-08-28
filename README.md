@@ -24,10 +24,9 @@
 
 - [Mini-Project 1](https://github.com/fdac17/Mini-Project1) will be introduced
         
-       1. Q: Do I need to keep stuff in Answer1.ipynb? A: Absolutely not, you should create a new notebook YourUTID_MP1.ipnb
-       
-       1. Q: How do I raise issue if my peer has not created a fork yet? A: The forks are due Sep 8: thats why we have multiple steps in this assignment. If the fork is not there yet: raise issue regarding absence of the fork on fdac17/news
-       1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
+   1. Q: Do I need to keep stuff in Answer1.ipynb? A: Absolutely not, you should create a new notebook YourUTID_MP1.ipnb       
+   1. Q: How do I raise issue if my peer has not created a fork yet? A: The forks are due Sep 8: thats why we have multiple steps in this assignment. If the fork is not there yet: raise issue regarding absence of the fork on fdac17/news
+   1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
 
 # Class on Aug 30
 
