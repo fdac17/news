@@ -45,6 +45,9 @@
  
 - We will go over why we use the tools fdac17/lectures/tools.pdf
 
+- Also, please see https://github.com/fdac17/students/blob/master/FAQ.md
+  Feel free to edit/submit a pull request.
+
 - Feel free to add something about yourself to the .md file: many
 are quite bare and may not contain sufficient info for clustering.
 
