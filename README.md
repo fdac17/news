@@ -31,7 +31,7 @@
 
 # Class on Aug 30
 
-- Still missing the following .md files: please creata pull request by the end of the class 
+- Still missing the following .md files: please create a pull request by the end of the class 
 
 ```
 dmagsby
