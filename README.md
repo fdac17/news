@@ -31,6 +31,17 @@
 
 # Class on Aug 30
 
+- Still missing the following .md files: please creata pull request by the end of the class 
+
+```
+dmagsby
+gjones2
+jadams45
+jande118
+ngreen11
+ztrzil
+```
+
 - We will go over data discovery fdac17/lectures/dd.pdf 
 
 - Analysis of self-description in .md files: fork fdac17/students
