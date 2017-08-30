@@ -42,8 +42,10 @@ sure I know to look at it sooner.
         ```
          host da2
             hosthostname da2.eecs.utk.edu
-            port YOURPORT from students/ports.md
+            port YOURPORT #from students/ports.md
             username YOURNETID
+            LocalForward 8888 127.0.0.1:8888
+            IdentityFile ~/.ssh/id_rsa
          ```
 
         1. place your private key in ~/.ssh/id_rsa
