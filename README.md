@@ -5,13 +5,13 @@
 
 # Class on Sep 13
 
-- Mini-project 1 due, selected presentations
+- Mini-project1 due, selected presentations
 
 # Class on Sep 11
 
-- Dedicated to pair discussions of the Mini-project 1
+- Dedicated to pair discussions of the Mini-project1
 
-- On organizing into final project teams
+- Work on organizing into final project teams
 
 # Class on Sep 8
 
@@ -92,8 +92,8 @@ git push
 # Syllabus for "Fundamentals of Digital Archeology"
 * **Course:** [COSCS-445/COSCS-545]
 * ** MK524  2:30-3:20 MWF**
-* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) MK613
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours  Wed 11:30-1:20 
+* **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK619 Wed 11:30-1:20 
 * **Need help?**
 
 Simple rules: 
