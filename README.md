@@ -33,7 +33,7 @@
    1. Q: How come I need to have X number of commits by certain date? A: To avoid situation when all work is done at the end, or the intermediate results are not saved. The purpose of this is to practice frequent commits: do something, then commit before it disappears.
    1. Q: How do I know someone's GH id? A: Please see students/MapIDs.md 
 
-
+- Google cloud infrastructure will be introduced fdac17/gcloud
 
 # Class on Aug 30
 
