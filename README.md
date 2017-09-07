@@ -15,11 +15,14 @@
 
 # Class on Sep 8
 
-- Ideas for the final project (be ready to present your pitch if you want to do it)
+- Ideas for the final project (be ready to present your pitch if you want to do it) 
 
+     - Please add your teaser to fdac17/FinalProjects/
+     - Please raise an issue against fdac17/FinalProjects indicating which project you'd like to work on
+     
 # Class on Sep 6
 
-- Ideas for the final project (be ready to present your pitch if you want to do it)
+- Ideas for the final project (be ready to present your pitch if you want to do it) See fdac17/FinalProjects/README.md for a list of presented teasers.
 
 # Class on Sep 1
 
