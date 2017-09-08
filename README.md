@@ -1,6 +1,7 @@
 # Class on Sep 18
 
 - Selected presentations
+- GCloud practice due
 
 
 # Class on Sep 13
@@ -19,7 +20,9 @@
 
      - Please add your teaser to fdac17/FinalProjects/
      - Please raise an issue against fdac17/FinalProjects indicating which project you'd like to work on
-     
+
+- Will go over the gcloud practice
+
 # Class on Sep 6
 
 - Ideas for the final project (be ready to present your pitch if you want to do it) See fdac17/FinalProjects/README.md for a list of presented teasers.
