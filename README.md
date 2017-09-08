@@ -100,7 +100,7 @@ git push
 * **Course:** [COSCS-445/COSCS-545]
 * ** MK524  2:30-3:20 MWF**
 * **Instructor:** Audris Mockus, [audris@utk.edu](mailto:audris@utk.edu) office hours MK613 - on request
-* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK619 Wed 11:30-1:20 
+* **TA:** Andrew Valesky, [avalesky@vols.utk.edu](mailto:avalesky@vols.utk.edu) office hours MK619 Wed 11:00 - 1:00 
 * **Need help?**
 
 Simple rules: 
