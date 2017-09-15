@@ -1,12 +1,39 @@
-# Class on Sep 18
+# Class on Oct 4
+- Discovery: Mini Project2 - Step1-2 due
+- Discovery: Mini Project2 - Challenge introduced
 
-- Selected presentations
+# Class on Oct 2
+- Final project proposals are due
+
+# Class on Sep 25-27
+- Work on Mini Project2 - Step1-2
+
+# Class on Sep 22
+- Discovery: Mini Project2 - Step2 - Introduction
+
+# Class on Sep 20
+- Discovery: Mini Project2 - Step1 - Introduction
+- Questions on GCloud
+
+# Class on Sep 18
+- Final project selection finalized: start working on FP proposals
+- More info on text analysis + comments on Mini-project1
 - GCloud practice due
 
+# Class on Sep 13
+- Team 5: Joshua Hickman
+- Team 7: Sean Whalen
+- Team 8: Ty Vaughan
+- Teasers for the final project
+- Questions on GCloud
 
 # Class on Sep 13
 
-- Mini-project1 due, selected presentations
+- Mini-project1 due
+- Team 1: Chris Shurtleff
+- Team 2: Denizhan Pak
+- Team 3: William Lifferth
+- Team 6: Devanshu Agrawal
 
 # Class on Sep 11
 
