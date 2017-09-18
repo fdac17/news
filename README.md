@@ -4,6 +4,13 @@
 
 # Class on Oct 2
 - Final project proposals are due
+   The  group needs to submit a project proposal (1.5-2 pages in
+   IEEE format (see
+   https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/).
+   The proposal 
+   should provide a brief motivation of the project, detailed
+   discussion of the data that will be obtained or used in the project,
+   along with a time-line of milestones, and expected outcome.
 
 # Class on Sep 25-27
 - Work on Mini Project2 - Step1-2
