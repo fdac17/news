@@ -23,6 +23,7 @@
 
 # Class on Sep 18
 - Final project selection finalized: start working on FP proposals
+   - Pleas update this [spreadsheet](https://drive.google.com/open?id=1uV-XEBPLNG9GBExjDFo5KafsUwKVINfN1Zs6k2wohdM) with your final selections
 - More info on text analysis + comments on Mini-project1
 - GCloud practice due
 
