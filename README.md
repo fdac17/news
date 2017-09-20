@@ -11,20 +11,23 @@
    discussion of the data that will be obtained or used in the project,
    along with a time-line of milestones, and expected outcome.
 
-# Class on Sep 25-27
+# Class on Sep 27-29
 - Work on Mini Project2 - Step1-2
 
-# Class on Sep 22
+# Class on Sep 25
 - Discovery: Mini Project2 - Step2 - Introduction
 
+# Class on Sep 22
+- Discovery: Mini Project2 - Step1 - Introduction
+
 # Class on Sep 20
+- Please update this [spreadsheet](https://drive.google.com/open?id=1uV-XEBPLNG9GBExjDFo5KafsUwKVINfN1Zs6k2wohdM) with your final selections
+- More info on text analysis + comments on Mini-project1
 - Discovery: Mini Project2 - Step1 - Introduction
 - Questions on GCloud
 
 # Class on Sep 18
-- Final project selection finalized: start working on FP proposals
-   - Pleas update this [spreadsheet](https://drive.google.com/open?id=1uV-XEBPLNG9GBExjDFo5KafsUwKVINfN1Zs6k2wohdM) with your final selections
-- More info on text analysis + comments on Mini-project1
+- Final project selection finalized: start working on FP proposals   
 - GCloud practice due
 
 # Class on Sep 13
