@@ -1,3 +1,15 @@
+# Class on Oct 16 
+- Data analysis using R
+
+# Class on Oct 13 
+- Data analysis using R
+
+# Class on Oct 11 
+- Data analysis using R
+
+# Class on Oct 9  
+- Data Discovery Step-3 due
+- 
 # Class on Oct 4
 - Discovery: Mini Project2 - Step1-2 due
 - Discovery: Mini Project2 - Challenge introduced
@@ -12,7 +24,7 @@
    along with a time-line of milestones, and expected outcome.
 
 # Class on Sep 27-29
-- Work on Mini Project2 - Step1-2
+- Work on Mini Project2 - Step1-2/ Poposal for the final project
 
 # Class on Sep 25
 - Discovery: Mini Project2 - Step2 - Introduction
