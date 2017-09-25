@@ -32,7 +32,7 @@
 
 # Class on Sep 25
 - Discovery: Mini Project2 - Step2 - Introduction
-- Mini-Project1: additional presentations
+- Mini-Project1: additional presentations (JTL, Jacob M, James C, Jonathan And. and Ad.)
 
 # Class on Sep 22
 - Discovery: Mini Project2 - Step1 - Introduction
