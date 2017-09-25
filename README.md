@@ -1,3 +1,6 @@
+# Class on Oct 18
+- Mini-Project3 Step-1
+
 # Class on Oct 16 
 - Data analysis using R
 
@@ -7,7 +10,7 @@
 # Class on Oct 11 
 - Data analysis using R
 
-# Class on Oct 9  
+# Class on Oct 9
 - Data Discovery Step-3 due
 - 
 # Class on Oct 4
