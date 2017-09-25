@@ -15,9 +15,6 @@
 - 
 # Class on Oct 4
 - Discovery: Mini Project2 - Step1-2 due
-- Discovery: Mini Project2 - Challenge introduced
-
-# Class on Oct 2
 - Final project proposals are due
    The  group needs to submit a project proposal (1.5-2 pages in
    IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
@@ -26,11 +23,16 @@
    discussion of the data that will be obtained or used in the project,
    along with a time-line of milestones, and expected outcome.
 
+# Class on Oct 2
+- Discovery: Mini Project2 - Challenge introduced
+- Mini-Project1: additional presentations
+
 # Class on Sep 27-29
-- Work on Mini Project2 - Step1-2/ Poposal for the final project
+- Work on the proposal for the final project
 
 # Class on Sep 25
 - Discovery: Mini Project2 - Step2 - Introduction
+- Mini-Project1: additional presentations
 
 # Class on Sep 22
 - Discovery: Mini Project2 - Step1 - Introduction
