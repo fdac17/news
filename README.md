@@ -14,7 +14,11 @@
 - Data Discovery Step-3 due
 - 
 # Class on Oct 4
-- Discovery: Mini Project2 - Step1-2 due
+- Discovery: Mini Project2 - Step1-2
+    - Someone has dropped the entire NPM_packages database with all your collections, so please rerun the gathering again
+    - and please avoid dropping the entire database, if you need clean slate just drop your collection only
+    - Some created another database npms to store package info, please use the same NPM_packages database, just a different named collection: 
+        instaed of all_netid - npms_netid
 - Final project proposals are due
    The  group needs to submit a project proposal (1.5-2 pages in
    IEEE format (see https://www.overleaf.com/latex/templates/preparation-of-papers-for-ieee-sponsored-conferences-and-symposia/zfnqfzzzxghk).
