@@ -17,6 +17,11 @@
 - Discovery: Mini Project2 - Step1-2
     - Someone has dropped the entire NPM_packages database with all your collections, so please rerun the gathering again
     - and please avoid dropping the entire database, if you need clean slate just drop your collection only
+    ```
+    db.all_netid.delete_many({}) #good as long as netid is yours
+    db.all_netid.drop() #good as long as netid is yours
+    client.drop_database('NPM_packages') # BAD, please never do it as you remove everyone elses collections
+    ```
     - Some created another database npms to store package info, please use the same NPM_packages database, just a different named collection: 
         instaed of all_netid - npms_netid
 - Final project proposals are due
