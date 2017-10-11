@@ -1,14 +1,21 @@
+# Class on Nov 1, 3, 6
+ - Work on FP
+
+# Class on Oct 27, 30
+ - FP - progress reports
+
+# Class on Oct 25
+ - Mini-Project3 Step-1 due
+
+# Class on Oct 18, 20, 23 
+ - Work on FP; Mini-Project3 Step-1
+
 # Class on Oct 18
-- Mini-Project3 Step-1
+- Mini-Project3 Step-1 introduced
 
-# Class on Oct 16 
+# Class on Oct 11, 13, 16
 - Data analysis using R
-
-# Class on Oct 13 
-- Data analysis using R
-
-# Class on Oct 11 
-- Data analysis using R
+- Remaining FP proposals
 
 # Class on Oct 9
 - Data Discovery Step-3 due
