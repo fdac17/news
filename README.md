@@ -1,25 +1,38 @@
+# Dec 4
+ - Final report due: no final exams
+
+# Class on Nov 20, 22, 27, 29, Dec 1, 4
+ - Fnal project presentatons
+
+# Class on Nov 10, 13, 17
+ - Work on FP
+
+# Class on Nov 8
+ - Mini-Project3 Step-2 due
+
 # Class on Nov 1, 3, 6
  - Work on FP
 
 # Class on Oct 27, 30
  - FP - progress reports
+ - Mini-Project3 Step-1 due
 
 # Class on Oct 25
- - Mini-Project3 Step-1 due
+ - Work on FP; Mini-Project3 Step-1
 
 # Class on Oct 18, 20, 23 
  - Work on FP; Mini-Project3 Step-1
 
 # Class on Oct 18
-- Mini-Project3 Step-1 introduced
+- Mini-Project3 Step1-2 introduced
 
 # Class on Oct 11, 13, 16
 - Data analysis using R
 - Remaining FP proposals
 
 # Class on Oct 9
-- Data Discovery Step-3 due
-- 
+ - Data Discovery Step-3 due
+ 
 # Class on Oct 4
 - Discovery: Mini Project2 - Step1-2
     - Someone has dropped the entire NPM_packages database with all your collections, so please rerun the gathering again
