@@ -23,10 +23,10 @@
 # Class on Oct 18, 20, 23 
  - Work on FP; Mini-Project3 Step-1
 
-# Class on Oct 18
-- Mini-Project3 Step1-2 introduced
+# Class on Oct 16
+- Questions on MP2: last day
 
-# Class on Oct 11, 13, 16
+# Class on Oct 11, 13
 - Data analysis using R
 - Remaining FP proposals
 
