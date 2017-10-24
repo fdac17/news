@@ -15,11 +15,21 @@
 
 # Class on Oct 27, 30
  - FP - progress reports
- - Mini-Project3 Step-1 due
+ - Mini-Project3 Step-1 due Oct 30
 
 # Class on Oct 25
  - Work on FP; Mini-Project3 Step-1
-
+ - Please ask questions: 
+      - the mp3.ipynb has been updated on Mini-Projec3
+      - it contains the minimum set of steps
+             Investigating univariate
+	     Transformations
+	     Investigating multivariate
+	     Model selection
+	     Model diagnostics
+	     Prediction using liner models
+	     Advanced prediction
+	     
 # Class on Oct 18, 20, 23 
  - Work on FP; Mini-Project3 Step-1
 
