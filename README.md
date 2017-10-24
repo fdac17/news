@@ -1,5 +1,6 @@
 # Dec 4
  - Final report due: no final exams
+    The [format and content](https://github.com/fdac17/FinalProjects/blob/master/README.md) for the report
 
 # Class on Nov 20, 22, 27, 29, Dec 1, 4
  - Fnal project presentatons
