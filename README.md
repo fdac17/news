@@ -2,25 +2,27 @@
  - Final report due: no final exams
     The [format and content](https://github.com/fdac17/FinalProjects/blob/master/README.md) for the report
 
-# Class on Nov 20
- - Fnal project presentatons
-
-# Final Project Presentation Dec. 4
+# Final Project Presentation on Dec 4
   - REMember
   - The Bitcoin
 
-# Final Project Presentation Dec. 1
+# Final Project Presentation on Dec 1
   - REMember
-  - another
+  - Topological Analysis
 
-#  Final Project Presentation on November 29
+#  Final Project Presentation on Nov 29
  - Pitchfork Review 
- - another
+ - TBD
 
-#  Final Project Presentation November 27 
+#  Final Project Presentation on Nov 27 
   - Social Media Image Analysis
-  - one other presentation  
-    
+  - TBD  
+
+#  Final Project Presentation on Nov 20
+ - TBD
+ - TBD
+
+
 # Class on Nov 10, 13, 17
  - Work on FP
 
