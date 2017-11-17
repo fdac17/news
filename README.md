@@ -7,7 +7,7 @@
   - The Bitcoin
 
 # Final Project Presentation on Dec 1
-  - REMember
+  - TBD
   - Topological Analysis
 
 #  Final Project Presentation on Nov 29
