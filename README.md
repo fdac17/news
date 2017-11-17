@@ -7,7 +7,7 @@
 
 # Final Project Presentation Dec. 4
   - REMember
-  - another
+  - The Bitcoin
 
 # Final Project Presentation Dec. 1
   - REMember
