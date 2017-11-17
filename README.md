@@ -2,9 +2,25 @@
  - Final report due: no final exams
     The [format and content](https://github.com/fdac17/FinalProjects/blob/master/README.md) for the report
 
-# Class on Nov 20, 22, 27, 29, Dec 1, 4
+# Class on Nov 20
  - Fnal project presentatons
 
+# Final Project Presentation Dec. 4
+  - REMember
+  - another
+
+# Final Project Presentation Dec. 1
+  - REMember
+  - another
+
+#  Final Project Presentation on November 29
+ - Pitchfork Review 
+ - another
+
+#  Final Project Presentation November 27 
+  - Social Media Image Analysis
+  - one other presentation  
+    
 # Class on Nov 10, 13, 17
  - Work on FP
 
