@@ -9,6 +9,7 @@
 # Final Project Presentation on Dec 1
   - Redit
   - Topological Analysis
+  - NFL
 
 #  Final Project Presentation on Nov 29
  - Pitchfork Review 
