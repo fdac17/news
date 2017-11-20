@@ -16,11 +16,9 @@
 
 #  Final Project Presentation on Nov 27 
   - Social Media Image Analysis
-  - TBD  
+  - Open Secrets 
 
-#  Final Project Presentation on Nov 20
- - TBD
- - TBD
+#  Final Lecture on Nov 20
 
 
 # Class on Nov 10, 13, 17
