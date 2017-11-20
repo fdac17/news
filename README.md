@@ -12,7 +12,7 @@
 
 #  Final Project Presentation on Nov 29
  - Pitchfork Review 
- - TBD
+ - Open Source Contributions
 
 #  Final Project Presentation on Nov 27 
   - Social Media Image Analysis
