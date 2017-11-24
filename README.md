@@ -5,6 +5,7 @@
 # Final Project Presentation on Dec 4
   - REMember
   - The Bitcoin
+  - Discord API
 
 # Final Project Presentation on Dec 1
   - Redit
