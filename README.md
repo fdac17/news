@@ -15,7 +15,8 @@
 #  Final Project Presentation on Nov 29
  - Pitchfork Review 
  - Open Source Contributions
-
+ - Startup analysis
+ 
 #  Final Project Presentation on Nov 27 
   - Social Media Image Analysis
   - Open Secrets 
