@@ -1,3 +1,6 @@
+
+# [Course Evaluation](https://utk.campuslabs.com/courseeval/)
+
 # Dec 4
  - Final report due: no final exams
     The [format and content](https://github.com/fdac17/FinalProjects/blob/master/README.md) for the report
