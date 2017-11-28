@@ -29,6 +29,7 @@
 #  Final Project Presentation on Nov 27 
   - Social Media Image Analysis
   - Open Secrets 
+      - potential future work: https://www.theverge.com/2017/3/29/15100620/congress-fcc-isp-web-browsing-privacy-fire-sale
 
 #  Final Lecture on Nov 20
 
