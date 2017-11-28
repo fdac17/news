@@ -12,6 +12,7 @@
   - (15m presentation + 2m for questions)
   - REMember
   - The Bitcoin
+     - potential future work: http://fortune.com/2017/11/25/lost-bitcoins/
   - Discord API
 
 # Final Project Presentation on Dec 1
