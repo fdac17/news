@@ -6,16 +6,19 @@
     The [format and content](https://github.com/fdac17/FinalProjects/blob/master/README.md) for the report
 
 # Final Project Presentation on Dec 4
+  - (15m presentation + 2m for questions)
   - REMember
   - The Bitcoin
   - Discord API
 
 # Final Project Presentation on Dec 1
+  - (15m presentation + 2m for questions)
   - Redit
   - Topological Analysis
   - NFL
 
 #  Final Project Presentation on Nov 29
+ - (15m presentation + 2m for questions)
  - Pitchfork Review 
  - Open Source Contributions
  - Startup analysis
