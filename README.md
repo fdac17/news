@@ -1,8 +1,9 @@
 
 # [Course Evaluation](https://utk.campuslabs.com/courseeval/)
 
-# Dec 8, Noon, location TBD
- - Gymnasics Outcomes (attendance optional)
+# Dec 8, 12:00:1.00PM, location MK 354 Friday
+ - Gymnasics Outcomes 
+ - Topological Analysis  (second attempt)
  
 # Dec 4
  - Final report due: no final exams
